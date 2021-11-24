@@ -1,3 +1,3 @@
  npm i;
  npm start;
- https://vaskaleev.github.io/React_RRD6/
+ https://vaskaleev.github.io/about
